@@ -1,4 +1,6 @@
 # ssm_all
+tomcat:7.0.85
+jdk:1.7
 本案例实现了ssm框架的整合与文件上传功能
 一.ssm整合
 	为了更好的学习 springmvc和mybatis整合开发的方法，需要将springmvc和mybatis进行整合。
